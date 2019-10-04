@@ -1,0 +1,7 @@
+
+public abstarct class Problem {
+	State initialState;
+	Operators operators;
+	boolean goalTest;
+	
+}

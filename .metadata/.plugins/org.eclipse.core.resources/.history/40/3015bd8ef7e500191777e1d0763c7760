@@ -1,0 +1,8 @@
+
+public class Node {
+	State state;
+	Node parent;
+	Operators operator;
+	int depth;
+	int cost;
+}

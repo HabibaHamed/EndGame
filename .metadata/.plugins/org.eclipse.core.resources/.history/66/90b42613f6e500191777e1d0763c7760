@@ -1,0 +1,10 @@
+
+public enum operators {
+	up,
+	down,
+	left,
+	right,
+	collect,
+	kill,
+	snap
+}
